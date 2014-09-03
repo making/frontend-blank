@@ -39,7 +39,7 @@ Then simply reference the resource like:
 <link rel='stylesheet' href='css/app.css'>
 ```
 
-### With Spring MVC
+#### With Spring MVC
 
 > Then configure Spring to map requests for /webjars to the /META-INF/resources/webjars directory of all the JARs in the CLASSPATH. This can be done either via XML config:
 
